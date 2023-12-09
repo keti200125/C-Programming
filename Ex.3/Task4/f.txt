@@ -1,0 +1,6 @@
+1.love
+2.smile$
+3.cat
+4.dog$
+5.How are you today?
+6.Where are you?$
